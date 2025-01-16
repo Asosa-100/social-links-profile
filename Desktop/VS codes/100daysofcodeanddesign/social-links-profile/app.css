@@ -3,10 +3,6 @@
     margin: 0;
 }
 
-.html {
-    font-size: 62.5%;
-}
-
 body {
     background-image: url(bg.png);
     background-size: cover;
